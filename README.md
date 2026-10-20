@@ -1,185 +1,234 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:00D4FF,100:00FFB3&height=220&section=header&text=SHAHID%20S&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Innovator%20%7C%20AI%20Enthusiast&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:050816,35:102A43,70:0077B6,100:00F5D4&text=SHAHID%20S&fontSize=72&fontColor=FFFFFF&fontAlignY=38&desc=ENGINEERING%20THE%20FUTURE&descSize=20&descAlignY=58&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Building+Ideas+Into+Reality;Full-Stack+Development+%7C+AI;Innovating+for+Real-World+Impact" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=900&color=00F5D4&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Full-Stack+Developer+in+Progress;AI+%7C+Innovation+%7C+Product+Development;Building+Ideas+Into+Reality;Think+Beyond+The+Ordinary." alt="Animated introduction"/>
+
+<br/>
+
+<a href="https://github.com/sha27hid-design">
+<img src="https://img.shields.io/badge/PROFILE-GITHUB-00F5D4?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+<img src="https://img.shields.io/badge/FOCUS-AI%20%26%20WEB-0077B6?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://komarev.com/ghpvc/?username=sha27hid-design&style=for-the-badge&color=00F5D4&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<h2 align="center">◈ &nbsp; WHO AM I? &nbsp; ◈</h2>
 
-Hey there! I'm **Shahid S**, a Computer Science Engineering student who loves building innovative applications and exploring emerging technologies.
+```text
+NAME       : Shahid S
+FIELD      : Computer Science Engineering
+INTERESTS  : Full-Stack Development / AI / UI-UX
+MINDSET    : Innovate. Build. Improve.
+MISSION    : Turn ideas into impactful technology.
+```
 
-- 🎓 B.Tech — Computer Science Engineering
-- 💻 Interested in web development and modern UI/UX
-- 🤖 Exploring AI-powered applications
-- 🚀 Building technology for real-world problems
-- 🏆 Hackathon and innovation enthusiast
-- 🌱 Always learning and improving my skills
+I'm a CSE student passionate about creating modern digital experiences, exploring AI-powered solutions, and building applications that address real-world challenges.
 
-> 💡 My goal is to turn creative ideas into practical, intelligent and impactful technology.
+- 🚀 Developing innovative web applications
+- 🤖 Exploring artificial intelligence and automation
+- 🎨 Interested in futuristic interfaces and interactive experiences
+- 🏆 Turning hackathon ideas into working prototypes
+- 🌱 Learning something new with every project
 
 ---
 
-## 🚀 Featured Projects
+<h2 align="center">⚡ PROJECT UNIVERSE</h2>
+
+<div align="center">
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🚍 Urban Link
+<h3 align="center">🚍 URBAN LINK</h3>
 
-**Unified Urban Public Transport Platform**
+<div align="center">
+<img src="https://img.shields.io/badge/DOMAIN-SMART%20MOBILITY-00F5D4?style=flat-square"/>
+</div>
 
-A mobility platform designed to bring multiple transport options together.
+A unified urban mobility platform concept designed to bring transportation options together.
 
-- 🚌 Multimodal journey planning
-- 🚇 Public transport exploration
-- 🚕 Transport comparison
-- 🗺️ Route visualization
+**Core vision**
+- 🚌 Multimodal transport discovery
+- 🗺️ Journey and route visualization
+- 💰 Fare and travel comparisons
+- 📱 Responsive travel experience
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🚑 ResQRoute AI
+<h3 align="center">🚑 RESQROUTE AI</h3>
 
-**Intelligent Emergency Routing**
+<div align="center">
+<img src="https://img.shields.io/badge/DOMAIN-EMERGENCY%20TECH-FF4D6D?style=flat-square"/>
+</div>
 
-An emergency-response project focused on efficient ambulance routing and hospital selection.
+An intelligent emergency-routing concept focused on helping responders identify efficient routes and suitable hospitals.
 
-- 🚑 Ambulance route optimization
-- 🏥 Hospital discovery
+**Core vision**
+- 🚨 Emergency response workflows
+- 🏥 Hospital selection
 - 🗺️ Map-based routing
-- ⚡ Emergency response workflows
+- ⚡ Route optimization
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📡 Signal Bridge
+<h3 align="center">📡 SIGNAL BRIDGE</h3>
 
-**Offline-First Emergency Communication**
+<div align="center">
+<img src="https://img.shields.io/badge/DOMAIN-RESILIENT%20COMMUNICATION-A78BFA?style=flat-square"/>
+</div>
 
-An emergency messaging concept designed to relay distress messages between compatible nearby devices when connectivity is limited.
+An offline-first emergency messaging concept for relaying distress messages through compatible nearby devices where supported.
 
-- 📩 Distress messaging
-- 📡 Store-and-forward concept
-- 📱 Nearby device communication
-- 🆘 Emergency-focused design
+**Core vision**
+- 🆘 Distress message handling
+- 📶 Store-and-forward communication
+- 📱 Nearby device relaying
+- 🔗 Connectivity-aware design
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🛡️ CivicShield
+<h3 align="center">🛡️ CIVICSHIELD</h3>
 
-**Civic Technology Project**
+<div align="center">
+<img src="https://img.shields.io/badge/DOMAIN-CIVIC%20INNOVATION-60A5FA?style=flat-square"/>
+</div>
 
-A technology-driven project focused on addressing civic challenges and exploring digital solutions for community problems.
+A civic technology project exploring digital approaches to community challenges.
+
+**Core vision**
+- 🌍 Civic problem-solving
+- 💡 Technology-driven ideas
+- 🧩 Practical digital solutions
 
 </td>
 </tr>
 </table>
 
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-<p>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
-
-**Frontend Development**
-
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-</p>
-
-**Backend, Databases & Tools**
-
-<p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</p>
+</div>
 
 ---
 
-## 🏆 Achievements
+<h2 align="center">🧬 TECH ARSENAL</h2>
+
+<h3 align="center">PROGRAMMING</h3>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🥇%20CRESIGNITE%202026-FIRST%20PRIZE-FFD700?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript&theme=dark" alt="Programming languages"/>
 
-### 🥇 First Prize — Cresignite 2026
+</div>
 
-Recognized with **1st Prize** at the Cresignite event held on October 5, 2026.
+<h3 align="center">FRONTEND & UI</h3>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark" alt="Frontend technologies"/>
+
+</div>
+
+<h3 align="center">BACKEND & DATABASE</h3>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,firebase,mongodb&theme=dark" alt="Backend and database technologies"/>
+
+</div>
+
+<h3 align="center">DEVELOPER TOOLS</h3>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Developer tools"/>
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+<h2 align="center">🏆 ACHIEVEMENT UNLOCKED</h2>
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=sha27hid-design&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+<img src="https://img.shields.io/badge/ACHIEVEMENT-CRESIGNITE%202026-FFD700?style=for-the-badge&logo=awards&logoColor=black"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sha27hid-design&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used languages"/>
+<br/><br/>
 
-<br/>
+<img src="https://img.shields.io/badge/🥇-FIRST%20PRIZE-FFD700?style=for-the-badge"/>
 
-<img src="https://streak-stats.demolab.com?user=sha27hid-design&theme=tokyonight&hide_border=true" alt="Contribution streak"/>
+### First Prize — Cresignite 2026
+
+Recognized with first prize at Cresignite, held on October 5, 2026.
 
 </div>
 
 ---
 
-## 🎯 My Goals
+<h2 align="center">📊 DEVELOPER ANALYTICS</h2>
 
-- 🚀 Build production-quality applications
-- 🤖 Develop practical AI-powered solutions
-- 🌐 Improve full-stack development skills
-- 📱 Create responsive web and mobile experiences
-- 🏆 Participate in more hackathons
-- 💡 Solve meaningful real-world problems
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sha27hid-design&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00F5D4&icon_color=00F5D4&text_color=FFFFFF&rank_icon=github" alt="GitHub statistics"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sha27hid-design&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00F5D4&text_color=FFFFFF" alt="Most used languages"/>
+
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=sha27hid-design&theme=tokyonight&hide_border=true&background=050816&ring=00F5D4&fire=FF4D6D&currStreakLabel=00F5D4" alt="GitHub contribution streak"/>
+
+</div>
 
 ---
 
-## 🌐 Let's Connect
+<h2 align="center">🎯 CURRENT MISSION</h2>
+
+<div align="center">
+
+| Status | Mission |
+|:---:|---|
+| ⚡ | Build production-quality applications |
+| 🤖 | Explore practical AI integrations |
+| 🌐 | Strengthen full-stack development |
+| 📱 | Create responsive web and mobile experiences |
+| 🏆 | Compete, learn, and innovate |
+| 💡 | Solve meaningful real-world problems |
+
+</div>
+
+---
+
+<h2 align="center">🌐 ESTABLISH CONNECTION</h2>
 
 <div align="center">
 
 <a href="https://github.com/sha27hid-design">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GITHUB-EXPLORE%20MY%20CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 <a href="https://www.linkedin.com/in/shahid-s-68290b381/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT%20WITH%20ME-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-</div>
+<br/><br/>
 
-<div align="center">
+**Open to learning, collaboration, and building great ideas.**
 
-### 💬 "Dream Big. Build Bold. Make an Impact."
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=sha27hid-design&style=for-the-badge&color=00E5FF&label=PROFILE+VIEWS" alt="Profile views"/>
+### `DREAM. DESIGN. DEVELOP. DEPLOY.`
 
-**Thanks for visiting my profile! ⭐**
+<sub>Thanks for visiting my digital workspace. Keep building! 🚀</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:00D4FF,100:00FFB3&height=110&section=footer" width="100%"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:00F5D4,40:0077B6,100:050816&section=footer" width="100%"/>
 
 </div>
